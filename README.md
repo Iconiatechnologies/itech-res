@@ -3,7 +3,7 @@
 itech-res is an npm package that lists the Itech company profile.  
 
 ## Installation  
-... javascript 
+...javascript   
 npm install -global itech-res  
 ...  
 ## Run  
