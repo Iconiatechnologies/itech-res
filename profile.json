@@ -1,0 +1,28 @@
+{
+    "About Us": [
+        "We are a data company, building solutions and products",
+        "aimed at helping our clients make data driven decisions and plans.",
+        "We work with the best technologies to create highle scalable,",
+        "high quality solutions with our client's needs in mind.",
+        "We foster a data driven culture with powerful and stunning analytics.",
+        "We go above and beyond to ensure your stakeholders have the right data at hand."
+    ],
+    "Our Services": [
+        "Data Handling",
+        "ETL & Data Warehousing",
+        "Business Inteligence",
+        "Infrastructure Design",
+        "Visualization & Presentation",
+        "Cloud Architeccture",
+        "End Device Integration",
+        "Big Data"
+    ],
+    "Specialized Skills": [
+        "Streaming",
+        "Data Science & Machine Learning",
+        "Data Wrangling",
+        "Data Warehousing",
+        "Enterprise Linux Administration"
+    ],
+    "Contact Us": ["https://www.iconiatech.com"]
+}
